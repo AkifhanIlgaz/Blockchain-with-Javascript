@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-with-javascript",
+  "version": "1.0.0",
+  "description": "Implementing Blockchain with  Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehmet Akifhan Ilgaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "js-sha256": "^0.9.0",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.16"
+  }
+}
